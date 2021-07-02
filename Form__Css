@@ -1,0 +1,71 @@
+.headerContainer {
+    font-size: 60px;
+    text-align: center;
+    border: 4px solid rgb(19, 19, 18);
+    color: whitesmoke;
+    background-color:rgb(43, 55, 226);
+    margin-left: 375px;
+    margin-right: 375px;
+    height: 90px;
+
+}
+
+.Container {
+    margin-left: 375px;
+}
+.password {
+    margin-left: 405px;
+}
+
+.email {
+    margin-left: 429px;
+}
+
+.url {
+    margin-left: 445px;
+}
+
+.number {
+    margin-left: 410px;
+}
+
+.telephone {
+    margin-left: 440px;
+}
+
+.searchip {
+    margin-left: 375px;
+    
+}
+
+.datetime {
+    margin-left: 370px;
+}
+
+.rangebar {
+    margin-left: 370px;
+}
+
+.button {
+    margin-left: 500px;
+}
+
+form {
+    margin-top: 50px;
+
+}
+
+input {
+    width: 600px;
+    height: 20px;
+}
+
+body {
+    background-color: rgba(64, 78, 143, 0.123);
+}
+
+.main {
+
+    border: 5px solid royalblue;
+    height: 455px;
+}
